@@ -1,0 +1,8 @@
+{
+    "AppSyncApiName": "SignalClone",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthModeLastUpdated": "2022-02-22T15:26:06.641Z",
+    "S3DeploymentBucket": "amplify-signalclone-dev-154117-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/cec74e05a78e0e62f9fae4b2a87e073f4dde2dc7"
+}
