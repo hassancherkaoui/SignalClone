@@ -47,7 +47,7 @@
     "react-native": "0.64.3",
     "react-native-emoji-selector": "^0.2.0",
     "react-native-safe-area-context": "3.3.2",
-    "react-native-screens": "~3.8.0",
+    "react-native-screens": "~3.35.0",
     "react-native-web": "0.17.1",
     "tweetnacl": "^1.0.3",
     "uuid": "^8.3.2",
